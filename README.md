@@ -1133,7 +1133,6 @@ Use this project at your own risk.
 
 This project can be distributed under the **MIT License**.
 
-If you choose MIT for the GitHub repository, add a `LICENSE` file containing the MIT License text.
 
 ---
 
